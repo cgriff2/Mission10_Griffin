@@ -1,0 +1,6 @@
+f@Mission10_HostAddress = http://localhost:5290
+
+GET {{Mission10_HostAddress}}/bowler
+Accept: application/json
+
+###

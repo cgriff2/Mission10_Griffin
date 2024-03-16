@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|c:\\users\\charlottegriffin\\source\\repos\\mission10_griffin\\backend\\mission10\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|solutionrelative:controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|c:\\users\\charlottegriffin\\source\\repos\\mission10_griffin\\backend\\mission10\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|solutionrelative:data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|c:\\users\\charlottegriffin\\source\\repos\\mission10_griffin\\backend\\mission10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|c:\\users\\charlottegriffin\\source\\repos\\mission10_griffin\\backend\\mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|c:\\users\\charlottegriffin\\source\\repos\\mission10_griffin\\backend\\mission10\\mission10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C9DDAFDF-6F74-4545-983A-AAE4EA2B6D98}|Mission10.csproj|solutionrelative:mission10.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Data\\Bowler.cs",
+              "RelativeToolTip": "Data\\Bowler.cs",
+              "ViewState": "AQIAAAQAAAAAZmZmZmYHwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T03:09:40.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T02:52:46.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAXDMzMzPbvx0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T02:51:42.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mission10.http",
+              "DocumentMoniker": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Mission10.http",
+              "RelativeDocumentMoniker": "Mission10.http",
+              "ToolTip": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Mission10.http",
+              "RelativeToolTip": "Mission10.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-16T02:45:30.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\charlottegriffin\\source\\repos\\Mission10_Griffin\\backend\\Mission10\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Controllers\\BowlerController.cs",
+              "ViewState": "AQIAAAgAAADgzczMzCw+wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:23:58.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
